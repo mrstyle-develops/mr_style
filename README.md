@@ -16,3 +16,13 @@
 
 ## 📁 Folder Structure
 
+
+---
+
+## 🎯 Purpose
+
+This project is made for:
+- Personal branding 💼  
+- YouTube content creation 🎥  
+- Practicing modern frontend dev skills ⚙️
+
